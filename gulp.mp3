@@ -1,0 +1,6 @@
+Name: audio-preview
+Id: sukumo28.wav-preview
+Description: play & preview audio file in VS Code. (wav,mp3,ogg,aac,flac,...etc)
+Version: 2.0.4
+Publisher: sukumo28
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=sukumo28.wav-preview
